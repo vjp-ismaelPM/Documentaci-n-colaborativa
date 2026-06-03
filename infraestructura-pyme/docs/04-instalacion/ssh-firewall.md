@@ -387,3 +387,7 @@ sudo apt update && sudo apt upgrade ufw fail2ban -y
 - [OpenSSH Manual](https://www.openssh.com/manual.html)
 - [Fail2ban Documentation](https://www.fail2ban.org/wiki/index.php/MANUAL_0_8)
 - → Ver también: [`servidor-web.md`](servidor-web.md) | [`base-de-datos.md`](base-de-datos.md) | [`monitorizacion.md`](monitorizacion.md)
+
+## Reglas UFW
+- Permitir SSH solo desde IP de la oficina: `ufw allow from 192.168.1.0/24 to any port 22`
+- Permitir tráfico web: `ufw allow 80/tcp` y `ufw allow 443/tcp`
