@@ -49,7 +49,7 @@ Añadimos la línea para que se ejecute cada noche a las 2:00:
 mysql -u root -p db_web < /var/backups/mysql/db_web_20240601.sql
 ```
 
-## 4. Comprobación
+## 4. Verificación
 
 Para comprobar que el script funciona correctamente antes de dejarlo en producción:
 
