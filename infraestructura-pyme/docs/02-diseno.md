@@ -26,3 +26,4 @@ Admin   TI   Invitados
 | Apache     | 2.4.60 | Servidor web (versión actualizada) |
 | MySQL      | 8.0    | Base de datos                      |
 | Certbot    | 2.9    | SSL/TLS automático (añadido)       |
+Certbot para SSL
