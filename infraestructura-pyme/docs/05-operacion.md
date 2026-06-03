@@ -136,5 +136,5 @@ Revisar:
 | Backup no generado         | Ejecutar manual + notificar      |
 | Intrusión sospechosa       | Bloquear IP + notificar urgente  |
 
-**Técnico responsable:** ___________________  
+**Técnico responsable:** _656656656_  
 **Teléfono / correo:** ___________________
