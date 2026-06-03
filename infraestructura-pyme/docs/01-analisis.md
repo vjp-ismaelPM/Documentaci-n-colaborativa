@@ -14,3 +14,4 @@
 ## Restricciones
 - Presupuesto limitado (no renovar servidores)
 - Plazo: 12 semanas
+- Debe tener Documentación
