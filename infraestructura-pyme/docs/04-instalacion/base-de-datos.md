@@ -23,7 +23,7 @@
 
 ---
 
-## 1. Descripción general
+## 1. Descripción
 
 Este documento describe la instalación y configuración de **MySQL 8.0** como servidor de base de datos en **Ubuntu Server 22.04 LTS**.
 
